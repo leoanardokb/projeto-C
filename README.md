@@ -3,4 +3,5 @@
 ○ Breve descrição do tema do site
 ○ Seu nome completo
 ○ Curso e período
-○ Link do site publicado (GitHub Pages, Netlify, Vercel etc.)
+https://leoanardokb.github.io/projeto-C/
+
