@@ -3,5 +3,4 @@
 ○ Breve descrição do tema do site
 ○ Seu nome completo
 ○ Curso e período
-https://leoanardokb.github.io/projeto-C/
 
